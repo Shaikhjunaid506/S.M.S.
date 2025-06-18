@@ -31,36 +31,6 @@ A full-featured **Student Management System** built using **Java** and **Swing G
 | Architecture  | MVC + Utility Layers |
 | Data Storage  | File-based (No DB)  |
 
----
-
-## 🗂️ Project Structure
-
-StudentManagementSystem/
-├── gui/
-│ ├── RegistrationForm.java
-│ ├── SubjectSelectionForm.java
-│ ├── NotesScreen.java
-│ ├── ExamScreen.java
-│ ├── ResultScreen.java
-│ └── AdminPanel.java
-├── model/
-│ ├── Student.java
-│ └── Result.java
-├── util/
-│ ├── GPAUtils.java
-│ ├── Validator.java
-│ └── FileHandler.java
-├── resources/
-│ ├── notes/
-│ │ ├── btech_notes.txt
-│ │ ├── mba_notes.txt
-│ ├── questions/
-│ │ ├── bca_mcqs.txt
-│ │ ├── mbbs_mcqs.txt
-└── Main.java
-
-
----
 
 ## 🚀 How to Run
 
